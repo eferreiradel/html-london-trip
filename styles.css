@@ -1,5 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
 .container {
     display: flex;
-    gap: 0.5rem;
+    flex-direction: row;
+    gap: 0.3rem;
+    max-width: 90%;
+    
+}
+
+
+.content-section {
     
 }
